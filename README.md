@@ -20,7 +20,10 @@ pip install flask
 
 3. Run the application:
 ```bash
-python siem_dashboard_tool.py
+python siem_dashboard.py
+
+or run the alternative version:
+python siem_dashboard_second_version.py
 ```
 
 4. Open your browser and navigate to `http://127.0.0.1:5000`
